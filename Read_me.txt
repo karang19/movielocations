@@ -3,7 +3,7 @@ Project: SF Movies
 Technical Track: Full stack since that's what I have been doing for the past 6 months. 
 
 How to use the web application:
-1.Go to the url.
+1.Go to the url: https://movielocations.herokuapp.com/.
 2.Type a movie name in the search bar. Type atleast 2 characters to get movie suggestions.
 3.Choose a movie from the list and hit Enter.
 4.For the movie choosen, markers will be placed on the map indicating where the movie was filmed.
