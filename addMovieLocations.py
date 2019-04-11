@@ -6,7 +6,7 @@ import csv
 
 from pymongo import MongoClient
 
-client = MongoClient('mongodb://karang19:Karang19@ds029187.mongolab.com:29187/heroku_app28139663')
+client = MongoClient('mongodb://karang19:Karang19@ds029187.mlab.com:29187/heroku_app28139663')
 
 db = client.heroku_app28139663
 movielocations = db.movielocations
